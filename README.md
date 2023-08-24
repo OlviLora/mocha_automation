@@ -2,7 +2,7 @@
 Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun.
 
 ## Features
-- Simple App provide some functions to be tested.
+- Simple App provide some functions to be tested
 - Automation test to test Unit Test Apps
 
 ## Prerequisites
